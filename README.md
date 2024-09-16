@@ -1,7 +1,7 @@
 # Splitwise
 1. Added dependencies - Lombok,Spring Data JPA,Spring Web,MySQL Driver,Spring Boot DevTools,Spring Security
 
-   Resources
+Resources
 Ui Implementation Ideas :- https://dribbble.com/shots/9688170-Splitwise-Expense-handling-web-app
 System Design For Splitwise :- https://www.youtube.com/watch?v=kUIDqSRlMIc&ab_channel=LavakumarTechie
 
