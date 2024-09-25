@@ -1,7 +1,7 @@
 <template>
   <div class="w-64 bg-gray-100 h-screen p-4">
     <div class="flex items-center space-x-3 mb-8">
-      <img src="logo.png" alt="Logo" class="w-10 h-10" />
+      <!-- <img src="logo.png" alt="Logo" class="w-10 h-10" /> -->
       <span class="text-xl font-bold">Splitwise</span>
     </div>
     <ul class="space-y-6">
